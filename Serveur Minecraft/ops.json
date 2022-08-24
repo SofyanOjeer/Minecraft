@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "51b3de4c-b2e5-335d-be55-e89c08ea9d6d",
+    "name": "Avezix",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1b6a88be-ce11-33fb-9822-82008b4d6ebe",
+    "name": "BeerZko",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ed13c1c6-dc3e-3b01-83e8-5cf3e1e1da58",
+    "name": "Le_Genox",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

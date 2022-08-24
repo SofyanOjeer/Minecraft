@@ -1,0 +1,276 @@
+[18:18:42] [ServerMain/INFO]: Building unoptimized datafixer
+[18:19:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:19:14] [ServerMain/INFO]: Loaded 7 recipes
+[18:19:15] [Server thread/INFO]: Starting minecraft server version 1.19.1
+[18:19:15] [Server thread/INFO]: Loading properties
+[18:19:15] [Server thread/INFO]: This server is running CraftBukkit version 3563-Spigot-2183145-1e3bf58 (MC: 1.19.1) (Implementing API version 1.19.1-R0.1-SNAPSHOT)
+[18:19:16] [Server thread/INFO]: Debug logging is disabled
+[18:19:16] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:19:16] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:19:16] [Server thread/INFO]: Default game type: SURVIVAL
+[18:19:16] [Server thread/INFO]: Generating keypair
+[18:19:16] [Server thread/INFO]: Starting Minecraft server on 192.168.1.179:25565
+[18:19:16] [Server thread/INFO]: Using default channel type
+[18:19:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:19:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:19:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:19:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:19:16] [Server thread/INFO]: Preparing level "world"
+[18:19:16] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:19:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:19:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:19:16] [Server thread/INFO]: View Distance: 14
+[18:19:16] [Server thread/INFO]: Simulation Distance: 10
+[18:19:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:19:16] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:19:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:19:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:19:16] [Server thread/INFO]: Mob Spawn Range: 6
+[18:19:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:19:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:19:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:19:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:19:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:19:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:19:16] [Server thread/INFO]: Max TNT Explosions: 100
+[18:19:16] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:19:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:19:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:19:16] [Server thread/INFO]: View Distance: 14
+[18:19:16] [Server thread/INFO]: Simulation Distance: 10
+[18:19:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:19:16] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:19:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:19:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:19:16] [Server thread/INFO]: Mob Spawn Range: 6
+[18:19:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:19:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:19:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:19:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:19:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:19:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:19:16] [Server thread/INFO]: Max TNT Explosions: 100
+[18:19:16] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:19:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:19:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:19:16] [Server thread/INFO]: View Distance: 14
+[18:19:16] [Server thread/INFO]: Simulation Distance: 10
+[18:19:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:19:16] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:19:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:19:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:19:16] [Server thread/INFO]: Mob Spawn Range: 6
+[18:19:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:19:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:19:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:19:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:19:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:19:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:19:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:19:16] [Server thread/INFO]: Max TNT Explosions: 100
+[18:19:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:19:18] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:19:18] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:19:18] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:19:18] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:19:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:19:19] [Worker-Main-1/INFO]: Preparing spawn area: 8%
+[18:19:19] [Server thread/INFO]: Time elapsed: 2794 ms
+[18:19:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:19:20] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:19:20] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:19:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:19:21] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[18:19:21] [Server thread/INFO]: Time elapsed: 1979 ms
+[18:19:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:19:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:19:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[18:19:22] [Worker-Main-4/INFO]: Preparing spawn area: 68%
+[18:19:22] [Server thread/INFO]: Time elapsed: 1114 ms
+[18:19:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:19:22] [Server thread/INFO]: Done (6.343s)! For help, type "help"
+[18:19:31] [User Authenticator #1/INFO]: UUID of player BeerZko is 1b6a88be-ce11-33fb-9822-82008b4d6ebe
+[18:19:31] [Server thread/INFO]: BeerZko joined the game
+[18:19:31] [Server thread/INFO]: BeerZko[/37.65.99.67:50053] logged in with entity id 434 at ([world]981.9294757367319, 69.0, -1054.4872899881293)
+[18:31:35] [Server thread/INFO]: BeerZko has made the advancement [Hot Stuff]
+[18:31:48] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.5645534607212994
+[18:31:56] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6048999920396909
+[19:05:47] [Server thread/INFO]: BeerZko issued server command: /difficulty
+[19:05:50] [Server thread/INFO]: BeerZko issued server command: /difficulty hard
+[19:05:50] [Server thread/INFO]: [BeerZko: The difficulty has been set to Hard]
+[19:26:25] [Server thread/INFO]: BeerZko has made the advancement [What a Deal!]
+[19:50:50] [Server thread/INFO]: BeerZko lost connection: Disconnected
+[19:50:50] [Server thread/INFO]: BeerZko left the game
+[20:25:11] [User Authenticator #2/INFO]: UUID of player Avezix is 51b3de4c-b2e5-335d-be55-e89c08ea9d6d
+[20:25:11] [Server thread/INFO]: Avezix joined the game
+[20:25:11] [Server thread/INFO]: Avezix[/192.168.1.179:56698] logged in with entity id 18462 at ([world]974.0333021133746, 69.0, -1052.3663414762823)
+[20:25:42] [Server thread/INFO]: Villager EntityVillager['Mason'/10296, l='ServerLevel[world]', x=1035.11, y=64.00, z=-1021.81] died, message: 'Mason was slain by Zombie'
+[20:27:11] [Server thread/INFO]: Villager EntityVillager['Villager'/242, l='ServerLevel[world]', x=1021.51, y=70.94, z=-978.51] died, message: 'Villager was slain by Zombie'
+[20:27:28] [Server thread/INFO]: Villager EntityVillager['Farmer'/243, l='ServerLevel[world]', x=1013.30, y=70.94, z=-982.49] died, message: 'Farmer was slain by Zombie Villager'
+[20:27:43] [Server thread/INFO]: Avezix lost connection: Disconnected
+[20:27:43] [Server thread/INFO]: Avezix left the game
+[20:28:23] [User Authenticator #3/INFO]: UUID of player Avezix is 51b3de4c-b2e5-335d-be55-e89c08ea9d6d
+[20:28:23] [Server thread/INFO]: Avezix joined the game
+[20:28:23] [Server thread/INFO]: Avezix[/192.168.1.179:56771] logged in with entity id 18962 at ([world]957.8204916023736, 63.0, -1049.7989145883707)
+[20:32:37] [User Authenticator #4/INFO]: UUID of player BeerZko is 1b6a88be-ce11-33fb-9822-82008b4d6ebe
+[20:32:37] [Server thread/INFO]: BeerZko joined the game
+[20:32:37] [Server thread/INFO]: BeerZko[/37.65.99.67:51067] logged in with entity id 20318 at ([world]961.1329361526385, 63.5625, -1054.6925867480925)
+[20:46:36] [Server thread/INFO]: BeerZko issued server command: /give BeerZko minecraft:zombie_spawn_egg
+[20:46:36] [Server thread/INFO]: [BeerZko: Gave 1 [Zombie Spawn Egg] to BeerZko]
+[20:46:43] [Server thread/INFO]: BeerZko issued server command: /give BeerZko minecraft:name_tag
+[20:46:43] [Server thread/INFO]: [BeerZko: Gave 1 [Name Tag] to BeerZko]
+[20:48:39] [Server thread/INFO]: BeerZko issued server command: /setworldspawn 954 65 -1029
+[20:48:39] [Server thread/INFO]: [BeerZko: Set the world spawn point to 954, 65, -1029 [0.0]]
+[21:17:51] [Server thread/INFO]: Villager EntityVillager['Farmer'/305, l='ServerLevel[world]', x=1086.28, y=63.00, z=-1086.80] died, message: 'Farmer was slain by Zombie'
+[21:18:13] [Server thread/INFO]: Villager EntityVillager['Farmer'/317, l='ServerLevel[world]', x=1107.70, y=65.00, z=-1067.49] died, message: 'Farmer was slain by Zombie'
+[21:18:47] [Server thread/INFO]: Villager EntityVillager['Farmer'/18966, l='ServerLevel[world]', x=1139.30, y=66.00, z=-1071.67] died, message: 'Farmer was slain by Zombie'
+[21:30:12] [Server thread/INFO]: Villager EntityVillager['Farmer'/303, l='ServerLevel[world]', x=1078.70, y=63.00, z=-1081.39] died, message: 'Farmer was slain by Zombie'
+[21:30:26] [Server thread/INFO]: Villager EntityVillager['Farmer'/5576, l='ServerLevel[world]', x=1090.04, y=63.00, z=-1089.01] died, message: 'Farmer was slain by Zombie Villager'
+[21:30:51] [Server thread/INFO]: Villager EntityVillager['Farmer'/318, l='ServerLevel[world]', x=1122.27, y=67.00, z=-1092.61] died, message: 'Farmer was slain by Zombie Villager'
+[21:32:12] [Server thread/INFO]: BeerZko was slain by Iron Golem
+[21:41:21] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.2667719686694454
+[21:41:53] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.31125781862715485
+[21:47:41] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.25469617071667017
+[21:47:52] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.3902100260033876
+[21:49:11] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.3046711095437331
+[21:49:11] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.5557416509871018
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.5929980552411962
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6213841118449182
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6412444989018695
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6525548162062478
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6586264066520471
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6621669680021114
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6641642096972191
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6652328939076142
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6654987423416969
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 1.333203393778831
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.65033925894204
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6472302003155619
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6563970613351557
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.5893173347037646
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.5316093329329306
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.500307831987584
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.4822629545478776
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.5456663254119576
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 1.0411030929346907
+[21:49:12] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 1.5016266075154059
+[21:52:25] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.29309661228603545
+[21:52:28] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.30335630868148655
+[21:55:25] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.29800300865372265
+[21:55:25] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.5654055006743874
+[21:55:25] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.5843469727924457
+[21:55:25] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.5972324401095648
+[21:55:25] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6065228847592152
+[21:55:25] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6131238269476853
+[21:55:25] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6177441065335643
+[21:55:25] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6209686851582319
+[21:55:25] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6229024113674768
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6240555479005252
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6247143152452281
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6250668085172038
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6253339262013924
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6256665716589396
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6259194404792652
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.6049063500988723
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.5920202511179014
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.575909217224762
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 1.1775525610171371
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.5086351711336192
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.472481168980039
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.44508318662064994
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.4285649011562782
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.4189005640848791
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.40612610419930206
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.39037572407187326
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.37772607124975366
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.36553244281139996
+[21:55:26] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.3288726197547476
+[21:55:28] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.31823268192511023
+[21:55:33] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.42843087018286496
+[21:56:17] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.31663196897409307
+[21:57:56] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.37933282780397803
+[21:57:56] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.8433469291592246
+[21:57:56] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.3255060332812718
+[21:57:56] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.29927373026885107
+[21:57:56] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.7538706835125595
+[21:57:56] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.32925411194196386
+[21:57:56] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.4131701490425712
+[21:59:31] [Server thread/INFO]: BeerZko has made the advancement [Voluntary Exile]
+[21:59:53] [Server thread/WARN]: Horse (vehicle of BeerZko) moved wrongly! 0.5391031798359336
+[22:11:08] [Server thread/INFO]: Avezix was slain by Ravager
+[22:12:21] [Server thread/INFO]: BeerZko was slain by Vex
+[22:14:28] [Server thread/INFO]: Avezix was slain by Vindicator
+[22:15:06] [Server thread/INFO]: BeerZko was slain by Vex
+[22:16:28] [Server thread/INFO]: BeerZko was slain by Vex
+[22:16:56] [Server thread/INFO]: BeerZko was slain by Vex
+[22:17:17] [Server thread/INFO]: Avezix was slain by Vindicator
+[22:18:05] [Server thread/INFO]: Avezix was slain by Vex
+[22:30:22] [Server thread/INFO]: BeerZko issued server command: /save-all
+[22:30:22] [Server thread/INFO]: [BeerZko: Saved the game]
+[22:33:25] [Server thread/INFO]: BeerZko issued server command: /time set day
+[22:33:25] [Server thread/INFO]: [BeerZko: Set the time to 1000]
+[22:33:35] [Server thread/INFO]: BeerZko issued server command: /weather clear
+[22:33:35] [Server thread/INFO]: [BeerZko: Set the weather to clear]
+[22:38:39] [Server thread/INFO]: BeerZko issued server command: /weather clear
+[22:38:39] [Server thread/INFO]: [BeerZko: Set the weather to clear]
+[22:44:30] [Server thread/INFO]: BeerZko issued server command: /weather clear
+[22:44:30] [Server thread/INFO]: [BeerZko: Set the weather to clear]
+[22:44:33] [Server thread/INFO]: BeerZko issued server command: /time set day
+[22:44:33] [Server thread/INFO]: [BeerZko: Set the time to 1000]
+[22:50:01] [Server thread/INFO]: BeerZko issued server command: /time set day
+[22:50:01] [Server thread/INFO]: [BeerZko: Set the time to 1000]
+[22:50:05] [Server thread/INFO]: BeerZko issued server command: /weather clear
+[22:50:05] [Server thread/INFO]: [BeerZko: Set the weather to clear]
+[22:52:02] [Server thread/INFO]: Avezix lost connection: Disconnected
+[22:52:02] [Server thread/INFO]: Avezix left the game
+[22:52:15] [Server thread/INFO]: BeerZko issued server command: /save-all
+[22:52:15] [Server thread/INFO]: [BeerZko: Saved the game]
+[22:52:30] [Server thread/INFO]: BeerZko lost connection: Disconnected
+[22:52:30] [Server thread/INFO]: BeerZko left the game
