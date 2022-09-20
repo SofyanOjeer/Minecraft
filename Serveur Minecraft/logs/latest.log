@@ -1,278 +1,317 @@
-[11:53:04] [ServerMain/INFO]: Building unoptimized datafixer
-[11:53:05] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11:53:06] [ServerMain/INFO]: Loaded 7 recipes
-[11:53:07] [Server thread/INFO]: Starting minecraft server version 1.19.1
-[11:53:07] [Server thread/INFO]: Loading properties
-[11:53:07] [Server thread/INFO]: This server is running CraftBukkit version 3563-Spigot-2183145-1e3bf58 (MC: 1.19.1) (Implementing API version 1.19.1-R0.1-SNAPSHOT)
-[11:53:07] [Server thread/INFO]: Debug logging is disabled
-[11:53:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[11:53:07] [Server thread/INFO]: Using 4 threads for Netty based IO
-[11:53:07] [Server thread/INFO]: Default game type: SURVIVAL
-[11:53:07] [Server thread/INFO]: Generating keypair
-[11:53:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:53:07] [Server thread/INFO]: Using default channel type
-[11:53:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:53:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:53:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:53:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:53:07] [Server thread/INFO]: Preparing level "world"
-[11:53:07] [Server thread/INFO]: -------- World Settings For [world] --------
-[11:53:07] [Server thread/INFO]: View Distance: 14
-[11:53:07] [Server thread/INFO]: Simulation Distance: 10
-[11:53:07] [Server thread/INFO]: Item Merge Radius: 2.5
-[11:53:07] [Server thread/INFO]: Item Despawn Rate: 6000
-[11:53:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[11:53:07] [Server thread/INFO]: Mob Spawn Range: 6
-[11:53:07] [Server thread/INFO]: Experience Merge Radius: 3.0
-[11:53:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Cane Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Melon Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Potato Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Vine Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[11:53:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[11:53:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[11:53:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[11:53:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[11:53:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[11:53:07] [Server thread/INFO]: Max TNT Explosions: 100
-[11:53:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[11:53:07] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[11:53:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[11:53:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[11:53:08] [Server thread/INFO]: View Distance: 14
-[11:53:08] [Server thread/INFO]: Simulation Distance: 10
-[11:53:08] [Server thread/INFO]: Item Merge Radius: 2.5
-[11:53:08] [Server thread/INFO]: Item Despawn Rate: 6000
-[11:53:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[11:53:08] [Server thread/INFO]: Mob Spawn Range: 6
-[11:53:08] [Server thread/INFO]: Experience Merge Radius: 3.0
-[11:53:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Cane Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Melon Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Potato Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Vine Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[11:53:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[11:53:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[11:53:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[11:53:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[11:53:08] [Server thread/INFO]: Max TNT Explosions: 100
-[11:53:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[11:53:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[11:53:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[11:53:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[11:53:08] [Server thread/INFO]: View Distance: 14
-[11:53:08] [Server thread/INFO]: Simulation Distance: 10
-[11:53:08] [Server thread/INFO]: Item Merge Radius: 2.5
-[11:53:08] [Server thread/INFO]: Item Despawn Rate: 6000
-[11:53:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[11:53:08] [Server thread/INFO]: Mob Spawn Range: 6
-[11:53:08] [Server thread/INFO]: Experience Merge Radius: 3.0
-[11:53:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Cane Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Melon Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Potato Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Vine Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[11:53:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[11:53:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
-[11:53:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
-[11:53:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[11:53:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[11:53:08] [Server thread/INFO]: Max TNT Explosions: 100
-[11:53:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[11:53:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[11:53:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[11:53:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:53:09] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[11:53:09] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[11:53:09] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[11:53:09] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[11:53:10] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:53:10] [Worker-Main-13/INFO]: Preparing spawn area: 56%
-[11:53:10] [Server thread/INFO]: Time elapsed: 2713 ms
-[11:53:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[11:53:11] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[11:53:11] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[11:53:11] [Worker-Main-13/INFO]: Preparing spawn area: 0%
-[11:53:12] [Worker-Main-7/INFO]: Preparing spawn area: 91%
-[11:53:12] [Server thread/INFO]: Time elapsed: 1530 ms
-[11:53:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[11:53:13] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[11:53:13] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[11:53:13] [Worker-Main-12/INFO]: Preparing spawn area: 57%
-[11:53:13] [Server thread/INFO]: Time elapsed: 1146 ms
-[11:53:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[11:53:13] [Server thread/INFO]: Done (5.835s)! For help, type "help"
-[11:53:13] [User Authenticator #1/INFO]: UUID of player Avezix is 51b3de4c-b2e5-335d-be55-e89c08ea9d6d
-[11:53:14] [Server thread/INFO]: Avezix joined the game
-[11:53:14] [Server thread/INFO]: Avezix[/127.0.0.1:49932] logged in with entity id 838 at ([world]957.4627838594995, 63.0, -1053.6583147526774)
-[11:53:47] [Server thread/INFO]: Avezix issued server command: /give @a minecraft:command_block
-[11:53:47] [Server thread/INFO]: [Avezix: Gave 1 [Command Block] to Avezix]
-[11:54:24] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[11:54:24] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[11:55:43] [Server thread/INFO]: Avezix issued server command: /tp Avezix 2500 ~-3200
-[11:55:49] [Server thread/INFO]: Avezix issued server command: /tp Avezix 2500 ~ -3200
-[11:55:50] [Server thread/INFO]: [Avezix: Teleported Avezix to 2500.500000, 52.000000, -3199.500000]
-[11:56:42] [Server thread/INFO]: Avezix issued server command: /spawnpoint
-[11:56:42] [Server thread/INFO]: [Avezix: Set spawn point to 2472, 66, -3091 [0.0] in minecraft:overworld for Avezix]
-[11:56:59] [Server thread/INFO]: Avezix issued server command: /tp Avezix 1000 70 -1000
-[11:56:59] [Server thread/INFO]: [Avezix: Teleported Avezix to 1000.500000, 70.000000, -999.500000]
-[11:56:59] [Server thread/WARN]: Avezix moved too quickly! -1472.4289217248574,4.0,2090.9324767922662
-[11:57:47] [Server thread/INFO]: Avezix issued server command: /tp Avezix 2500 80 -3200
-[11:57:47] [Server thread/INFO]: [Avezix: Teleported Avezix to 2500.500000, 80.000000, -3199.500000]
-[11:58:22] [Server thread/INFO]: Avezix issued server command: /tp Avezix 1000 70 -1000
-[11:58:22] [Server thread/INFO]: [Avezix: Teleported Avezix to 1000.500000, 70.000000, -999.500000]
-[11:59:19] [Server thread/INFO]: [@: Teleported Avezix to 2472.500000, 66.000000, -3089.500000]
-[11:59:35] [Server thread/INFO]: Avezix issued server command: /give @a minecraft:command_block
-[11:59:35] [Server thread/INFO]: [Avezix: Gave 1 [Command Block] to Avezix]
-[11:59:41] [Server thread/INFO]: Avezix issued server command: /give @a minecraft:command_block
-[11:59:41] [Server thread/INFO]: [Avezix: Gave 1 [Command Block] to Avezix]
-[11:59:44] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[11:59:44] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[11:59:48] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[11:59:48] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[12:00:07] [Server thread/INFO]: Avezix issued server command: /tp Avezix 1000 70 -1000
-[12:00:07] [Server thread/INFO]: [Avezix: Teleported Avezix to 1000.500000, 70.000000, -999.500000]
-[12:00:40] [Server thread/INFO]: [@: Teleported Avezix to 2472.500000, 66.000000, -3089.500000]
-[12:01:00] [Server thread/INFO]: [@: Teleported Avezix to 961.500000, 60.000000, -1089.500000]
-[12:01:29] [Server thread/INFO]: [@: Teleported Avezix to 2472.500000, 66.000000, -3089.500000]
-[12:01:41] [Server thread/INFO]: [@: Teleported Avezix to 961.500000, 52.000000, -1089.500000]
-[12:02:08] [Server thread/INFO]: [@: Teleported Avezix to 2472.500000, 66.000000, -3089.500000]
-[12:02:13] [Server thread/INFO]: [@: Teleported Avezix to 961.500000, 52.000000, -1089.500000]
-[12:02:16] [Server thread/INFO]: [@: Teleported Avezix to 2472.500000, 66.000000, -3089.500000]
-[12:02:18] [Server thread/INFO]: [@: Teleported Avezix to 961.500000, 52.000000, -1089.500000]
-[12:21:07] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[12:21:07] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[12:21:13] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[12:21:13] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[12:31:41] [Server thread/INFO]: Avezix issued server command: /fill 1031 64 -998
-[12:32:00] [Server thread/INFO]: Avezix issued server command: /fill 1031 64 -998 1009 64 -1031 minecraft:air
-[12:32:00] [Server thread/INFO]: [Avezix: Successfully filled 445 blocks]
-[12:41:07] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[12:41:07] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[12:41:16] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[12:41:16] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[12:41:19] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[12:41:19] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[12:41:24] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[12:41:24] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[12:46:37] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[12:46:37] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[12:46:43] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[12:46:43] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[12:48:49] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[12:48:49] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[12:48:55] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[12:48:55] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[12:49:19] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[12:49:19] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[12:49:23] [Server thread/INFO]: Villager EntityVillager['Villager'/13835, l='ServerLevel[world]', x=1022.50, y=63.86, z=-1029.43] died, message: 'Villager was slain by Avezix'
-[12:49:27] [Server thread/INFO]: Villager EntityVillager['Villager'/14012, l='ServerLevel[world]', x=1022.51, y=63.94, z=-1027.82] died, message: 'Villager was slain by Avezix'
-[13:03:13] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[13:03:13] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[13:04:36] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[13:04:36] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[13:04:44] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[13:04:44] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[13:17:10] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[13:17:10] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[13:17:14] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[13:17:14] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[13:22:23] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[13:22:23] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[13:22:28] [Server thread/INFO]: Villager EntityVillager['Fletcher'/18317, l='ServerLevel[world]', x=1022.36, y=67.00, z=-1030.30] died, message: 'Fletcher was slain by Avezix'
-[13:22:29] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[13:22:29] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[13:22:31] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[13:22:31] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[13:22:34] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[13:22:34] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[13:32:03] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[13:32:03] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[13:32:12] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[13:32:12] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[13:46:07] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[13:46:07] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[13:46:12] [Server thread/INFO]: Villager EntityVillager['Villager'/23065, l='ServerLevel[world]', x=1033.70, y=70.00, z=-1019.30] died, message: 'Villager was slain by Avezix'
-[13:46:18] [Server thread/INFO]: Villager EntityVillager['Villager'/23372, l='ServerLevel[world]', x=1033.30, y=70.00, z=-1019.34] died, message: 'Villager was slain by Avezix'
-[13:46:21] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[13:46:21] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[13:46:44] [Server thread/INFO]: Villager EntityVillager['Fletcher'/15972, l='ServerLevel[world]', x=1022.70, y=64.00, z=-1030.30] died, message: 'Fletcher was slain by Avezix'
-[13:47:01] [Server thread/INFO]: Villager EntityVillager['Villager'/18298, l='ServerLevel[world]', x=1026.94, y=63.94, z=-1015.14] died, message: 'Villager was slain by Avezix'
-[13:50:30] [Server thread/INFO]: Villager EntityVillager['Villager'/23069, l='ServerLevel[world]', x=1031.70, y=70.00, z=-1018.30] died, message: 'Villager was slain by Avezix'
-[13:50:42] [Server thread/INFO]: Villager EntityVillager['Villager'/24015, l='ServerLevel[world]', x=1022.58, y=69.94, z=-1009.44] died, message: 'Villager was slain by Avezix'
-[13:51:11] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[13:51:11] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[13:51:20] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[13:51:20] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[13:54:49] [Server thread/INFO]: Villager EntityVillager['Villager'/24038, l='ServerLevel[world]', x=1028.73, y=70.00, z=-1021.67] died, message: 'Villager was slain by Avezix'
-[13:59:40] [Server thread/INFO]: Villager EntityVillager['Fletcher'/20130, l='ServerLevel[world]', x=1022.48, y=67.00, z=-1008.70] died, message: 'Fletcher was slain by Avezix'
-[14:01:18] [Server thread/INFO]: Villager EntityVillager['Villager'/23391, l='ServerLevel[world]', x=1032.14, y=72.00, z=-1020.55] died, message: 'Villager was slain by Avezix'
-[14:01:31] [Server thread/INFO]: Villager EntityVillager['Villager'/25555, l='ServerLevel[world]', x=1022.38, y=67.00, z=-1008.70] died, message: 'Villager was slain by Avezix'
-[14:01:36] [Server thread/INFO]: Villager EntityVillager['Villager'/25976, l='ServerLevel[world]', x=1022.47, y=67.00, z=-1008.70] died, message: 'Villager was slain by Avezix'
-[14:01:42] [Server thread/INFO]: Villager EntityVillager['Villager'/25980, l='ServerLevel[world]', x=1022.45, y=67.00, z=-1008.70] died, message: 'Villager was slain by Avezix'
-[14:04:32] [Server thread/INFO]: Villager EntityVillager['Farmer'/25931, l='ServerLevel[world]', x=1033.47, y=70.00, z=-1019.34] died, message: 'Farmer was slain by Avezix'
-[14:08:05] [Server thread/INFO]: Villager EntityVillager['Farmer'/25232, l='ServerLevel[world]', x=1025.16, y=70.00, z=-1013.70] died, message: 'Farmer was slain by Avezix'
-[14:08:42] [Server thread/INFO]: Villager EntityVillager['Farmer'/25270, l='ServerLevel[world]', x=1022.50, y=67.56, z=-1020.50] died, message: 'Farmer suffocated in a wall'
-[14:14:27] [Server thread/INFO]: Villager EntityVillager['Farmer'/25315, l='ServerLevel[world]', x=1021.42, y=63.94, z=-1011.24] died, message: 'Farmer was slain by Avezix'
-[14:20:37] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[14:20:37] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[14:22:38] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[14:22:38] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[14:23:18] [Server thread/INFO]: Villager EntityVillager['Villager'/19071, l='ServerLevel[world]', x=1022.64, y=67.56, z=-1020.64] died, message: 'Villager was slain by Avezix'
-[14:33:20] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[14:33:20] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[14:35:10] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[14:35:10] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[14:40:28] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[14:40:28] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[14:41:53] [Server thread/INFO]: Avezix issued server command: /gamemode creative
-[14:41:53] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
-[14:46:17] [Server thread/INFO]: Avezix issued server command: /gamemode survival
-[14:46:17] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
-[14:46:34] [Server thread/INFO]: Avezix lost connection: Disconnected
-[14:46:34] [Server thread/INFO]: Avezix left the game
-[14:46:42] [Server thread/INFO]: Stopping the server
-[14:46:42] [Server thread/INFO]: Stopping server
-[14:46:42] [Server thread/INFO]: Saving players
-[14:46:42] [Server thread/INFO]: Saving worlds
-[14:46:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:46:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[14:46:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[14:46:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:46:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:46:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:46:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:25:21] [ServerMain/INFO]: Building unoptimized datafixer
+[18:25:22] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:25:23] [ServerMain/INFO]: Loaded 7 recipes
+[18:25:24] [Server thread/INFO]: Starting minecraft server version 1.19.1
+[18:25:24] [Server thread/INFO]: Loading properties
+[18:25:24] [Server thread/INFO]: This server is running CraftBukkit version 3563-Spigot-2183145-1e3bf58 (MC: 1.19.1) (Implementing API version 1.19.1-R0.1-SNAPSHOT)
+[18:25:24] [Server thread/INFO]: Debug logging is disabled
+[18:25:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:25:24] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:25:24] [Server thread/INFO]: Default game type: SURVIVAL
+[18:25:24] [Server thread/INFO]: Generating keypair
+[18:25:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:25:24] [Server thread/INFO]: Using default channel type
+[18:25:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:25:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:25:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:25:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:25:24] [Server thread/INFO]: Preparing level "world"
+[18:25:24] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:25:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:25:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:25:24] [Server thread/INFO]: View Distance: 14
+[18:25:24] [Server thread/INFO]: Simulation Distance: 10
+[18:25:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:25:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:25:24] [Server thread/INFO]: Mob Spawn Range: 6
+[18:25:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:25:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:25:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:25:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:25:24] [Server thread/INFO]: Max TNT Explosions: 100
+[18:25:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:25:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:25:24] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:25:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:25:24] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:25:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:25:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:25:24] [Server thread/INFO]: View Distance: 14
+[18:25:24] [Server thread/INFO]: Simulation Distance: 10
+[18:25:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:25:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:25:24] [Server thread/INFO]: Mob Spawn Range: 6
+[18:25:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:25:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:25:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:25:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:25:24] [Server thread/INFO]: Max TNT Explosions: 100
+[18:25:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:25:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:25:24] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:25:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:25:24] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:25:24] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:25:24] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:25:24] [Server thread/INFO]: View Distance: 14
+[18:25:24] [Server thread/INFO]: Simulation Distance: 10
+[18:25:24] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:25:24] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:25:24] [Server thread/INFO]: Mob Spawn Range: 6
+[18:25:24] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:25:24] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[18:25:24] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[18:25:24] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:25:24] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:25:24] [Server thread/INFO]: Max TNT Explosions: 100
+[18:25:24] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:25:24] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:25:24] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:25:24] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:25:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:25:26] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:25:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[18:25:26] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[18:25:26] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[18:25:26] [Worker-Main-8/INFO]: Preparing spawn area: 5%
+[18:25:27] [Server thread/INFO]: Time elapsed: 2516 ms
+[18:25:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:25:28] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[18:25:28] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:25:28] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[18:25:29] [Worker-Main-7/INFO]: Preparing spawn area: 98%
+[18:25:29] [Server thread/INFO]: Time elapsed: 1501 ms
+[18:25:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:25:29] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:25:29] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[18:25:30] [Worker-Main-9/INFO]: Preparing spawn area: 95%
+[18:25:30] [Server thread/INFO]: Time elapsed: 1009 ms
+[18:25:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:25:30] [Server thread/INFO]: Done (5.519s)! For help, type "help"
+[18:34:41] [User Authenticator #1/INFO]: UUID of player BeerZko is 1b6a88be-ce11-33fb-9822-82008b4d6ebe
+[18:34:41] [Server thread/INFO]: BeerZko joined the game
+[18:34:41] [Server thread/INFO]: BeerZko[/37.65.99.49:32800] logged in with entity id 961 at ([world]956.1166139560283, 66.5, -1011.2718851360326)
+[18:34:48] [User Authenticator #2/INFO]: UUID of player Avezix is 51b3de4c-b2e5-335d-be55-e89c08ea9d6d
+[18:34:48] [Server thread/INFO]: Avezix joined the game
+[18:34:48] [Server thread/INFO]: Avezix[/127.0.0.1:59878] logged in with entity id 1143 at ([world]958.8685646997757, 63.0, -1054.3246121663901)
+[18:36:48] [Server thread/INFO]: BeerZko issued server command: /gamemode spectator
+[18:36:48] [Server thread/INFO]: [BeerZko: Set own game mode to Spectator Mode]
+[18:36:51] [Server thread/INFO]: Avezix issued server command: /gamemode spectator
+[18:36:51] [Server thread/INFO]: [Avezix: Set own game mode to Spectator Mode]
+[18:40:09] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[18:40:09] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[18:40:11] [Server thread/INFO]: BeerZko issued server command: /gamemode survival
+[18:40:11] [Server thread/INFO]: [BeerZko: Set own game mode to Survival Mode]
+[18:42:03] [Server thread/WARN]: BeerZko moved wrongly!
+[18:42:10] [Server thread/INFO]: [@: Teleported 2 entities to 2472.500000, 66.000000, -3089.500000]
+[18:45:15] [Server thread/INFO]: [@: Teleported 2 entities to 961.500000, 52.000000, -1089.500000]
+[18:47:46] [Server thread/INFO]: Avezix issued server command: /gamemode spectator
+[18:47:46] [Server thread/INFO]: [Avezix: Set own game mode to Spectator Mode]
+[18:47:58] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[18:47:58] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[18:47:59] [Server thread/INFO]: BeerZko issued server command: /gamemode spectator
+[18:47:59] [Server thread/INFO]: [BeerZko: Set own game mode to Spectator Mode]
+[18:48:02] [Server thread/INFO]: Avezix issued server command: /gamemode creative
+[18:48:02] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
+[18:48:08] [Server thread/INFO]: Avezix issued server command: /gamemode spectator
+[18:48:08] [Server thread/INFO]: [Avezix: Set own game mode to Spectator Mode]
+[18:48:35] [Server thread/INFO]: BeerZko issued server command: /gamemode survival
+[18:48:35] [Server thread/INFO]: [BeerZko: Set own game mode to Survival Mode]
+[18:48:37] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[18:48:37] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[18:49:44] [Server thread/INFO]: Avezix has made the advancement [A Terrible Fortress]
+[18:53:33] [Server thread/INFO]: Avezix issued server command: /gamemode creative
+[18:53:33] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
+[18:53:40] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[18:53:40] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[18:53:49] [Server thread/INFO]: Avezix issued server command: /gamemode creative
+[18:53:49] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
+[18:53:53] [Server thread/INFO]: Avezix issued server command: /gamemode spectator
+[18:53:53] [Server thread/INFO]: [Avezix: Set own game mode to Spectator Mode]
+[18:54:50] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[18:54:50] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[18:55:08] [Server thread/INFO]: Avezix issued server command: /gamemode spectator
+[18:55:08] [Server thread/INFO]: [Avezix: Set own game mode to Spectator Mode]
+[18:55:29] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[18:55:29] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[18:57:44] [Server thread/INFO]: Avezix has made the advancement [Spooky Scary Skeleton]
+[18:58:49] [Server thread/INFO]: Avezix has reached the goal [Postmortal]
+[18:58:58] [Server thread/INFO]: Avezix was slain by Wither Skeleton
+[18:59:11] [Server thread/INFO]: BeerZko issued server command: /tp Avezix BeerZko
+[18:59:11] [Server thread/INFO]: [BeerZko: Teleported Avezix to BeerZko]
+[18:59:18] [Server thread/INFO]: BeerZko issued server command: /tp Avezix BeerZko
+[18:59:18] [Server thread/INFO]: [BeerZko: Teleported Avezix to BeerZko]
+[18:59:37] [Server thread/INFO]: Avezix issued server command: /gamemode spectator
+[18:59:37] [Server thread/INFO]: [Avezix: Set own game mode to Spectator Mode]
+[18:59:45] [Server thread/INFO]: Avezix issued server command: /gamemode creative
+[18:59:45] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
+[19:00:01] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[19:00:01] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[19:00:13] [Server thread/INFO]: BeerZko issued server command: /gamemode spectator
+[19:00:13] [Server thread/INFO]: [BeerZko: Set own game mode to Spectator Mode]
+[19:00:45] [Server thread/INFO]: Avezix issued server command: /gamemode spectator
+[19:00:45] [Server thread/INFO]: [Avezix: Set own game mode to Spectator Mode]
+[19:01:43] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[19:01:43] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[19:01:47] [Server thread/INFO]: BeerZko issued server command: /gamemode survival
+[19:01:47] [Server thread/INFO]: [BeerZko: Set own game mode to Survival Mode]
+[19:03:06] [Server thread/INFO]: Avezix issued server command: /gamemode spectator
+[19:03:06] [Server thread/INFO]: [Avezix: Set own game mode to Spectator Mode]
+[19:03:07] [Server thread/INFO]: BeerZko issued server command: /gamemode spectator
+[19:03:07] [Server thread/INFO]: [BeerZko: Set own game mode to Spectator Mode]
+[19:03:25] [Server thread/INFO]: BeerZko issued server command: /gamemode survival
+[19:03:25] [Server thread/INFO]: [BeerZko: Set own game mode to Survival Mode]
+[19:03:40] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[19:03:40] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[19:05:25] [Server thread/INFO]: Avezix has made the advancement [Withering Heights]
+[19:11:01] [Server thread/WARN]: BeerZko moved wrongly!
+[19:12:25] [Server thread/INFO]: [@: Teleported 2 entities to 2472.500000, 66.000000, -3089.500000]
+[19:12:37] [Server thread/INFO]: BeerZko issued server command: /gamemode creative
+[19:12:37] [Server thread/INFO]: [BeerZko: Set own game mode to Creative Mode]
+[19:12:44] [Server thread/INFO]: [@: Teleported BeerZko to 961.500000, 52.000000, -1089.500000]
+[19:12:56] [Server thread/INFO]: BeerZko issued server command: /gamemode survival
+[19:12:56] [Server thread/INFO]: [BeerZko: Set own game mode to Survival Mode]
+[19:13:14] [Server thread/INFO]: [@: Teleported BeerZko to 2472.500000, 66.000000, -3089.500000]
+[19:14:24] [Server thread/INFO]: Avezix issued server command: /gamemode spectator
+[19:14:24] [Server thread/INFO]: [Avezix: Set own game mode to Spectator Mode]
+[19:15:25] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[19:15:25] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[19:15:27] [Server thread/INFO]: [@: Teleported BeerZko to 961.500000, 52.000000, -1089.500000]
+[19:15:29] [Server thread/INFO]: [@: Teleported Avezix to 961.500000, 52.000000, -1089.500000]
+[19:25:06] [Server thread/INFO]: Avezix issued server command: /gamemode spectator
+[19:25:06] [Server thread/INFO]: [Avezix: Set own game mode to Spectator Mode]
+[19:25:15] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[19:25:15] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[19:26:19] [Server thread/INFO]: BeerZko issued server command: /gamemode creative
+[19:26:19] [Server thread/INFO]: [BeerZko: Set own game mode to Creative Mode]
+[19:26:21] [Server thread/INFO]: BeerZko issued server command: /gamemode spectator
+[19:26:21] [Server thread/INFO]: [BeerZko: Set own game mode to Spectator Mode]
+[19:26:27] [Server thread/INFO]: Avezix issued server command: /gamemode spectator
+[19:26:27] [Server thread/INFO]: [Avezix: Set own game mode to Spectator Mode]
+[19:27:18] [Server thread/INFO]: BeerZko issued server command: /gamemode survival
+[19:27:18] [Server thread/INFO]: [BeerZko: Set own game mode to Survival Mode]
+[19:27:56] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[19:27:56] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[19:28:23] [Server thread/INFO]: Avezix lost connection: Disconnected
+[19:28:24] [Server thread/INFO]: Avezix left the game
+[19:29:44] [Server thread/INFO]: BeerZko issued server command: /gamemode spectator
+[19:29:44] [Server thread/INFO]: [BeerZko: Set own game mode to Spectator Mode]
+[19:30:10] [Server thread/INFO]: BeerZko issued server command: /gamemode survival
+[19:30:10] [Server thread/INFO]: [BeerZko: Set own game mode to Survival Mode]
+[19:35:43] [Server thread/INFO]: BeerZko has made the advancement [Bring Home the Beacon]
+[19:35:43] [Server thread/INFO]: BeerZko has reached the goal [Beaconator]
+[19:50:58] [User Authenticator #3/INFO]: UUID of player Avezix is 51b3de4c-b2e5-335d-be55-e89c08ea9d6d
+[19:50:58] [Server thread/INFO]: Avezix joined the game
+[19:50:58] [Server thread/INFO]: Avezix[/127.0.0.1:60512] logged in with entity id 21377 at ([world]964.4703476569892, 68.0, -1051.2743022515929)
+[19:55:59] [Server thread/INFO]: Avezix has made the advancement [Bring Home the Beacon]
+[19:57:46] [Server thread/INFO]: BeerZko lost connection: Disconnected
+[19:57:46] [Server thread/INFO]: BeerZko left the game
+[20:20:18] [User Authenticator #4/INFO]: UUID of player BeerZko is 1b6a88be-ce11-33fb-9822-82008b4d6ebe
+[20:20:18] [Server thread/INFO]: BeerZko joined the game
+[20:20:18] [Server thread/INFO]: BeerZko[/37.65.99.49:32971] logged in with entity id 34033 at ([world]974.5365071465648, 28.0, -1048.0105542685249)
+[20:35:18] [Server thread/INFO]: BeerZko issued server command: /difficulty hard
+[20:35:18] [Server thread/INFO]: [BeerZko: The difficulty has been set to Hard]
+[20:36:37] [Server thread/INFO]: BeerZko lost connection: Disconnected
+[20:36:37] [Server thread/INFO]: BeerZko left the game
+[20:38:05] [Server thread/INFO]: Avezix issued server command: /gamemode creative
+[20:38:05] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
+[20:38:17] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[20:38:17] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[20:40:45] [Server thread/INFO]: Avezix issued server command: /gamemode creative
+[20:40:45] [Server thread/INFO]: [Avezix: Set own game mode to Creative Mode]
+[20:41:10] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[20:41:10] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[20:41:51] [User Authenticator #5/INFO]: UUID of player BeerZko is 1b6a88be-ce11-33fb-9822-82008b4d6ebe
+[20:41:52] [Server thread/INFO]: BeerZko joined the game
+[20:41:52] [Server thread/INFO]: BeerZko[/37.65.99.49:32402] logged in with entity id 46464 at ([world_nether]101.47808435176698, 245.0, -113.55027748800204)
+[20:41:58] [Server thread/INFO]: Avezix lost connection: Disconnected
+[20:41:58] [Server thread/INFO]: Avezix left the game
+[20:49:39] [Server thread/INFO]: BeerZko issued server command: /gamemode spectator
+[20:49:39] [Server thread/INFO]: [BeerZko: Set own game mode to Spectator Mode]
+[20:49:45] [Server thread/INFO]: BeerZko issued server command: /gamemode survival
+[20:49:45] [Server thread/INFO]: [BeerZko: Set own game mode to Survival Mode]
+[20:50:10] [User Authenticator #6/INFO]: UUID of player Avezix is 51b3de4c-b2e5-335d-be55-e89c08ea9d6d
+[20:50:10] [Server thread/INFO]: Avezix joined the game
+[20:50:10] [Server thread/INFO]: Avezix[/127.0.0.1:60490] logged in with entity id 51137 at ([world_nether]104.17886431708126, 245.0, -112.89005692167594)
+[20:54:47] [Server thread/INFO]: BeerZko issued server command: /gamemode spectator
+[20:54:47] [Server thread/INFO]: [BeerZko: Set own game mode to Spectator Mode]
+[20:55:10] [Server thread/INFO]: BeerZko issued server command: /gamemode survival
+[20:55:10] [Server thread/INFO]: [BeerZko: Set own game mode to Survival Mode]
+[20:57:39] [Server thread/INFO]: BeerZko issued server command: /gamemode spectator
+[20:57:39] [Server thread/INFO]: [BeerZko: Set own game mode to Spectator Mode]
+[20:58:25] [Server thread/INFO]: BeerZko issued server command: /gamemode survival
+[20:58:25] [Server thread/INFO]: [BeerZko: Set own game mode to Survival Mode]
+[21:18:21] [Server thread/INFO]: Avezix issued server command: /gamemode spectator
+[21:18:21] [Server thread/INFO]: [Avezix: Set own game mode to Spectator Mode]
+[21:18:27] [Server thread/INFO]: BeerZko issued server command: /gamemode spectator
+[21:18:27] [Server thread/INFO]: [BeerZko: Set own game mode to Spectator Mode]
+[21:18:36] [Server thread/INFO]: Avezix issued server command: /gamemode survival
+[21:18:36] [Server thread/INFO]: [Avezix: Set own game mode to Survival Mode]
+[21:18:46] [Server thread/INFO]: BeerZko issued server command: /gamemode survival
+[21:18:46] [Server thread/INFO]: [BeerZko: Set own game mode to Survival Mode]
+[21:18:56] [Server thread/INFO]: BeerZko issued server command: /gamemode spectator
+[21:18:56] [Server thread/INFO]: [BeerZko: Set own game mode to Spectator Mode]
+[21:19:02] [Server thread/INFO]: BeerZko issued server command: /gamemode survival
+[21:19:02] [Server thread/INFO]: [BeerZko: Set own game mode to Survival Mode]
+[21:55:48] [Server thread/INFO]: Avezix lost connection: Disconnected
+[21:55:48] [Server thread/INFO]: Avezix left the game
+[21:56:08] [Server thread/INFO]: Stopping the server
+[21:56:08] [Server thread/INFO]: Stopping server
+[21:56:08] [Server thread/INFO]: Saving players
+[21:56:08] [Server thread/INFO]: BeerZko lost connection: Server closed
+[21:56:08] [Server thread/INFO]: BeerZko left the game.
+[21:56:08] [Server thread/INFO]: Saving worlds
+[21:56:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:56:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:56:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:56:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:56:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:56:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:56:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

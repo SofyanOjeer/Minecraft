@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2022-09-20 18:49:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-27 17:15:09 +0200"
@@ -932,15 +938,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2022-09-17 18:16:01 +0200",
+      "minecraft:blaze": "2022-09-20 18:55:32 +0200",
       "minecraft:skeleton": "2022-08-27 17:09:12 +0200",
       "minecraft:ravager": "2022-09-17 19:01:18 +0200",
       "minecraft:vindicator": "2022-09-17 18:53:02 +0200",
       "minecraft:spider": "2022-08-27 17:35:32 +0200",
       "minecraft:creeper": "2022-08-27 22:36:08 +0200",
+      "minecraft:wither": "2022-09-20 19:06:18 +0200",
       "minecraft:evoker": "2022-09-17 19:05:13 +0200",
       "minecraft:phantom": "2022-09-12 18:37:26 +0200",
       "minecraft:zombified_piglin": "2022-08-27 17:40:23 +0200",
       "minecraft:witch": "2022-09-16 21:39:59 +0200",
+      "minecraft:wither_skeleton": "2022-09-20 18:49:11 +0200",
       "minecraft:silverfish": "2022-08-28 00:14:14 +0200",
       "minecraft:enderman": "2022-09-18 01:06:21 +0200",
       "minecraft:zombie": "2022-08-27 17:21:56 +0200",
@@ -1081,6 +1090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2022-09-20 18:49:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2022-08-27 22:56:27 +0200"
@@ -1135,6 +1150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2022-09-20 21:01:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-09-17 16:17:36 +0200"
@@ -1144,6 +1165,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2022-09-18 14:40:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-09-20 18:49:44 +0200"
     },
     "done": true
   },
@@ -1363,6 +1390,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2022-09-20 19:55:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2022-08-27 22:57:43 +0200"
@@ -1378,6 +1411,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-08-27 22:21:45 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-09-20 18:49:44 +0200"
     },
     "done": true
   },
@@ -1717,6 +1756,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2022-09-20 18:58:49 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2022-08-27 17:26:23 +0200"
@@ -1804,6 +1849,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-28 00:05:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-09-20 18:49:44 +0200"
     },
     "done": true
   },
@@ -2188,7 +2239,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2022-08-27 17:38:20 +0200"
+      "minecraft:nether_wastes": "2022-08-27 17:38:20 +0200",
+      "minecraft:soul_sand_valley": "2022-09-20 18:47:37 +0200",
+      "minecraft:basalt_deltas": "2022-09-20 18:48:14 +0200"
     },
     "done": false
   },
@@ -2498,6 +2551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2022-09-20 18:49:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2022-08-27 23:13:38 +0200"
@@ -2597,6 +2656,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2022-08-27 22:36:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-09-20 19:05:25 +0200"
     },
     "done": true
   },
@@ -2741,6 +2806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2022-09-20 21:01:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-08-27 17:26:33 +0200"
@@ -2879,6 +2950,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-09-20 18:57:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2022-08-27 18:14:21 +0200"
@@ -2964,6 +3041,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-08-27 22:57:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2022-09-20 19:06:19 +0200"
     },
     "done": true
   },
@@ -3477,6 +3560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2022-09-20 18:49:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2022-08-27 17:04:55 +0200"
@@ -3528,6 +3617,12 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2022-09-16 21:10:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-09-20 18:49:44 +0200"
     },
     "done": true
   },
@@ -3783,6 +3878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2022-09-20 18:57:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2022-08-27 22:56:30 +0200"
@@ -3969,6 +4070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2022-09-20 18:49:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-27 22:56:24 +0200"
@@ -4098,6 +4205,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2022-09-10 22:49:23 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2022-09-20 18:49:44 +0200"
     },
     "done": true
   },
